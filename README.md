@@ -57,7 +57,8 @@
 
 <p align="left"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=light" /> </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hamdyhaggag&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
 
 
 
