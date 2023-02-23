@@ -55,11 +55,7 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
-
-
+<p align="left"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=light" /> </p>
 
 
 <p align="center">
