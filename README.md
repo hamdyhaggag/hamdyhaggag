@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hamdy Haggag</h1>
 <h3 align="center">TRAINEE AS FLUTTER DEVELOPER</h3>
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
+<p align="center"> <img src="[https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat](https://visitor-badge.laobi.icu/badge?page_id=zeeid)" alt="hamdyhaggag" /> </p>
 
 <p align="center"> <a href="https://twitter.com/hamdyhaggag74" target="blank"><img src="https://img.shields.io/twitter/follow/hamdyhaggag74?logo=twitter&style=for-the-badge" alt="hamdyhaggag74" /></a> </p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat&weight=900&size=25&pause=1000&width=435&lines=welcome+To+My+Github+Profile;+I%E2%80%99m+Hamdy+Haggag+Junior+CE;I%E2%80%99m+Currently+Learning+Flutter" alt="Typing SVG" /></a>
