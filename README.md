@@ -18,7 +18,7 @@
 
 - 👯 I'm happy to collaborate on `any flutter development or mobile apps project`.
 
-- 💬 Ask me about `my experiences as a Computer Science student at BHI and my previous internships ,Flutter , Dart , Mobile Applications`.
+- 💬 Ask Me About `My Experiences As A Computer Engineering Student And My Previous Internships ,Flutter , Dart , Mobile Applications`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - 📫 How to reach me **hamdyhaggag74@gmail.com**
 
@@ -28,18 +28,16 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/HamdyHaggag?style=social)](https://www.twitter.com/hamdyhaggag74) 
 
 <p align="left">
+<a href="https://fb.com/hamdyhaggag74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamdyhaggag74" height="30" width="40" /></a>
 <a href="https://twitter.com/hamdyhaggag74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamdyhaggag74" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hamdyhaggag74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamdyhaggag74" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14682698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14682698" height="30" width="40" /></a>
-<a href="https://fb.com/hamdyhaggag74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamdyhaggag74" height="30" width="40" /></a>
 <a href="https://instagram.com/hamdyhaggag74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamdyhaggag74" height="30" width="40" /></a>
-<a href="https://dribbble.com/hamdyhaggag74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hamdyhaggag74" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14682698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14682698" height="30" width="40" /></a>
 <a href="https://www.behance.net/hamdyhaggag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hamdyhaggag" height="30" width="40" /></a>
+<a href="https://dribbble.com/hamdyhaggag74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hamdyhaggag74" height="30" width="40" /></a>
 <a href="https://medium.com/@hamdyhaggag74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hamdyhaggag74" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hamdyhaggag74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamdyhaggag74" height="30" width="40" /></a>
 </p>
-
-
 
 
 <h3 align="left">Languages And Tools</h3>
@@ -50,10 +48,12 @@
 <p><a href="https://www.buymeacoffee.com/hamdyhaggag74"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hamdyhaggag74" /></a><a href="https://ko-fi.com/hamdyhaggag74"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hamdyhaggag74" /></a></p><br>
 <br>
 
+<br>
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=light&no-frame=false&no-bg=false&margin-w=4)
 
+<br>
 
 ## 🔥 GitHub Streak
 
