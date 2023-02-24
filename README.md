@@ -14,8 +14,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
 - 🌱 I’m currently learning `Flutter Framework , Courses`
-- :nerd_face: Always `learning new things`.
-- 
+- :nerd_face: Always `learning new things`. 
 - 👯 I'm happy to collaborate on `any flutter development or mobile apps project`.
 
 - 💬 Ask Me About `My Experiences As A Computer Engineering Student And My Previous Internships ,Flutter , Dart , Mobile Applications`.
