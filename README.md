@@ -47,14 +47,11 @@
 
  ## 😊 Support Me
 <p><a href="https://www.buymeacoffee.com/hamdyhaggag74"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hamdyhaggag74" /></a><a href="https://ko-fi.com/hamdyhaggag74"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hamdyhaggag74" /></a></p><br>
-<br>
 
-<br>
-
+<p>
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=light&no-frame=false&no-bg=false&margin-w=4)
-
-<br>
+</p>
 
 ## 🔥 GitHub Streak
 
