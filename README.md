@@ -18,7 +18,7 @@
 
 - 👯 I'm happy to collaborate on `any flutter development or mobile apps project`.
 
-- 💬 Ask me about Ask me about `my experiences as a Computer Science student at BHI and my previous internships ,Flutter , Dart , Mobile Applications`.
+- 💬 Ask me about `my experiences as a Computer Science student at BHI and my previous internships ,Flutter , Dart , Mobile Applications`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - 📫 How to reach me **hamdyhaggag74@gmail.com**
 
