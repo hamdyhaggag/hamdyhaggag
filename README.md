@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamdy Haggag</h1>
-<h3 align="center">TRAINEE AS FLUTTER DEVELOPER</h3>
+<h3 align="center">Junior FLUTTER DEVELOPER</h3>
 <p align="center"> <img align="centre" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" alt="hamdyhaggag" /> </p>
 
 
