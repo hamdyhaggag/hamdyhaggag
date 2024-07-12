@@ -40,6 +40,7 @@
 <a href="https://www.leetcode.com/hamdyhaggag74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamdyhaggag74" height="30" width="40" /></a>
 </p>
 <br>
+</br>
 ## 💻 Languages and Tools:
 
 <div align="center">
