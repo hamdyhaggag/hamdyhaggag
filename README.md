@@ -51,7 +51,16 @@
 ![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=light&no-frame=false&no-bg=false&margin-w=4)
 </br>
 </br>
+## 💻 Languages and Tools:
 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,cs,cpp,firebase,hive,ps,ai,agile,notion" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,xd,postman,git,github" /><br>
+</div>
+<br>
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shadymohamed532001&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ## 🔥 GitHub Streak
 
 <p align="left"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=light" /> </p>
