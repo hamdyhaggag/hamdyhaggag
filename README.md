@@ -47,9 +47,7 @@
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,xd,postman,git,github" /><br>
 </div>
 <br>
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=light&no-frame=false&no-bg=false&margin-w=4)
-</br>
+
 </br>
 
 
