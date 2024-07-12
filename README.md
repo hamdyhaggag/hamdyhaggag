@@ -41,7 +41,7 @@
 </p>
 <br>
 </br>
-## 💻 Languages and Tools:
+<h3 align="left">💻 Languages and Tools:</h3>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,cs,cpp,firebase,ps,ai" />
