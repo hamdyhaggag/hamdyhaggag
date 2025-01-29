@@ -52,13 +52,7 @@
 </br>
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shadymohamed532001&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ## 🔥 GitHub Streak
-
-<p align="left"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=light" /> </p>
-
-
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
