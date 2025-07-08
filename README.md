@@ -1,27 +1,34 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://hamdyhaggag.io)
 
-<h1 align="center">Hi 👋, I'm Hamdy Haggag</h1>
-<h3 align="center">Junior FLUTTER DEVELOPER</h3>
-<p align="center"> <img align="centre" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" alt="hamdyhaggag" /> </p>
+<div align="center">
+  <h1>Hi 👋, I'm Hamdy Haggag</h1>
+  <h3>Junior Flutter Developer</h3>
+  
+  <div>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" alt="visitors">
+    <a href="https://twitter.com/hamdyhaggag74" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/hamdyhaggag74?logo=twitter&style=flat" alt="Twitter Follow">
+    </a>
+  </div>
+  
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=montserrat&weight=700&size=22&pause=1000&color=4A8DD7&center=true&width=435&lines=Welcome+To+My+Github+Profile;I'm+Hamdy+Haggag+Junior+CE;Currently+Learning+Flutter" alt="Typing SVG">
+    </a>
+  </p>
+</div>
 
+---
 
-<p align="center"> <a href="https://twitter.com/hamdyhaggag74" target="blank"><img src="https://img.shields.io/twitter/follow/hamdyhaggag74?logo=twitter&style=for-the-badge" alt="hamdyhaggag74" /></a> </p>
-
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat&weight=900&size=25&pause=1000&width=435&lines=Welcome+To+My+Github+Profile;+I%E2%80%99m+Hamdy+Haggag+Junior+CE;I%E2%80%99m+Currently+Learning+Flutter" alt="Typing SVG" /></a>
-</p>
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture> About me
-
-
-- 🌱 I’m currently learning `Flutter Framework , Courses`
-- :nerd_face: Always `learning new things`. 
-- :technologist: I love using Software as a `solution for every Problem`.
-
-- 👯 I'm happy to collaborate on `any flutter development or mobile apps project`.
-
-- 📫 How to reach me **hamdyhaggag74@gmail.com**
+## 👨‍💻 About Me
+- 👨‍💻 **Junior Flutter Developer** building mobile experiences
+- 🌱 Currently learning **advanced Flutter & Dart concepts**
+- 🚀 Always exploring **new technologies and solutions**
+- 💡 Passionate about **transforming ideas into functional apps**
+- 💡 Always eager to `learn new things` and explore innovative solutions.
+- 💻 I believe in using software as a `solution for every problem`.
+- 🤝 I’m happy to collaborate on `Flutter development` or `mobile application projects`.
+- 📫 How to reach me: [hamdyhaggag74@gmail.com](mailto:hamdyhaggag74@gmail.com)
 
 <h3 align="left">Connect With Me</h3>
 
@@ -51,9 +58,20 @@
 
 </br>
 
+## 📊 GitHub Stats
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamdyhaggag&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdyhaggag&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" width="40%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamdyhaggag&theme=algolia&hide_border=true" alt="GitHub Streak" width="90%">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</div>
+
