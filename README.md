@@ -21,19 +21,20 @@
 ---
 
 ## 👨‍💻 About Me
-- 👨‍💻 **Junior Flutter Developer** building mobile experiences
-- 🌱 Currently learning **advanced Flutter & Dart concepts**
-- 🚀 Always exploring **new technologies and solutions**
-- 💡 Passionate about **transforming ideas into functional apps**
-- 💡 Always eager to `learn new things` and explore innovative solutions.
-- 💻 I believe in using software as a `solution for every problem`.
-- 🤝 I’m happy to collaborate on `Flutter development` or `mobile application projects`.
-- 📫 How to reach me: [hamdyhaggag74@gmail.com](mailto:hamdyhaggag74@gmail.com)
+- 👨‍💻 **Junior Flutter Developer** building mobile experiences  
+- 🌱 Currently learning **advanced Flutter & Dart concepts**  
+- 🚀 Always exploring **new technologies and solutions**  
+- 💡 Passionate about **transforming ideas into functional apps**  
+- 💡 Always eager to `learn new things` and explore innovative solutions.  
+- 💻 I believe in using software as a `solution for every problem`.  
+- 🤝 I’m happy to collaborate on `Flutter development` or `mobile application projects`.  
+- 🔗 Check out my portfolio: [hamdyhaggag.netlify.app](https://hamdyhaggag.netlify.app/)  
+- 📫 Reach me at: [hamdyhaggag74@gmail.com](mailto:hamdyhaggag74@gmail.com)  
 
 <h3 align="left">Connect With Me</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/sriharikapu?style=social)](https://www.github.com/hamdyhaggag)
-[![Twitter Follow](https://img.shields.io/twitter/follow/HamdyHaggag?style=social)](https://www.twitter.com/hamdyhaggag74) 
+[![GitHub followers](https://img.shields.io/github/followers/sriharikapu?style=social)](https://www.github.com/hamdyhaggag)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/HamdyHaggag?style=social)](https://www.twitter.com/hamdyhaggag74)  
 
 <p align="left">
 <a href="https://fb.com/hamdyhaggag74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamdyhaggag74" height="30" width="40" /></a>
@@ -46,16 +47,18 @@
 <a href="https://medium.com/@hamdyhaggag74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hamdyhaggag74" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hamdyhaggag74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamdyhaggag74" height="30" width="40" /></a>
 </p>
+
 <br>
 </br>
+
 <h3 align="left">💻 Languages and Tools:</h3>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,cs,cpp,firebase,ps,ai" />
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,xd,postman,git,github" /><br>
 </div>
-<br>
 
+<br>
 </br>
 
 ## 📊 GitHub Stats
@@ -74,4 +77,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </div>
-
